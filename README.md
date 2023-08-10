@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">Hello World! My name is Vitor Tavares, I'm 22 years old and I'm a Systems Analysis and Development student at Unisanta. Also im a student at Cubos Academy!<br>Currently my focus is Back-end with C# and Javascript, i have basic knowledge of Front-end.<br>In my repositories there are my first projects and programs, documenting my journey into the Dev world!</p>
+<p align="left">Hello! My name is Vitor Tavares, I'm 22 years old, and I'm a student of Systems Analysis and Development and a student at Cubos Academy! Currently, my focus is on Back-end development with C# and Node.js, and I have a basic understanding of Front-end as well. My repositories contain my initial projects and programs, documenting my journey in the Dev world!</p>
 
 ###
 
