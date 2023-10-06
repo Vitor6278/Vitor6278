@@ -39,13 +39,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="181" src="https://i.imgur.com/9MMBvSV.gif "  />
-
-###
-
-<p align="left">Hello! My name is Vitor Tavares and I'm 22 years old. I'm studying Systems Analysis and Development and am a student at Cubos Academy! Currently, my focus is on Back-end development with C# and Node.js, and I also have a basic understanding in Front-end. My repositories contain my initial projects and programs, documenting my journey in the Dev World!</p>
 
 ###
 
