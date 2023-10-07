@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%World&animation=twinkling%20&fontSize=50)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Vitor%20Tavares&fontColor=fff&fontSize=40&animation=twinkling" />
 
 ## Hello, Devs!! 
 <br>Olá! Meu nome é Vitor, tenho 22 anos e sou desenvolvedor Back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou aluno da Cubos Academy. 
@@ -60,7 +59,7 @@
 ###
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=footer&animation=twinkling" />
 
 
 
