@@ -8,7 +8,7 @@
 
    <br>Minha formação inclui um diploma em Análise de Sistemas, com um foco específico em desenvolvimento de software back-end. Atualmente, estou aprimorando minhas habilidades através de cursos de especialização em back-end, com ênfase em JavaScript, Node.js, bancos de dados SQL (especialmente PostgreSQL), C#, e também estou mergulhando no mundo do front-end para o desenvolvimento de APIs.<br>   
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2239F7&center=true&width=500&lines=JavaScript;Node.js;C%23;PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=2239F7&center=true&width=900&lines=JavaScript;Node.js;C%23;PostgreSQL)](https://git.io/typing-svg)
   
   <br> Em meus repositórios estão meus projetos, que representam minha jornada no mundo dev!  <br>
 <h4>Se você deseja entrar em contato comigo, fique à vontade para me enviar um e-mail ou me contactar através do LinkedIn!</h4>
