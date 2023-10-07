@@ -51,14 +51,6 @@
   </a>
 </div>
 
-
-###
-
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xsaHV4cXo5NmJqcXhqMW41azY4ajZmaDU4aW4ybzB1bXRlMXd0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif"  />
-
-###
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=footer&animation=twinkling" />
 
 
