@@ -2,9 +2,14 @@
 
 
 ## Hello, Devs!! 
-<h5 align="left">Olá! Tenho 22 anos, sou desenvolvedor Back-end. Atualmente estudante de Análise e Desenvolvimento de Sistemas e aluno da Cubos Academy! <br>Meu foco reside em Back-end, JavaScript, Node.js, C# e para banco de dados o PostgreSQL.<br>Em meus repositórios estão meus primeiros projetos, para documentar minha trajetória no mundo Dev!</h5>
+<br>Olá! Meu nome é Vitor, tenho 22 anos e sou desenvolvedor Back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou aluno da Cubos Academy. 
+  
+  <br>Apaixonado desde muito cedo pela tecnologia, acredito que a tecnologia pode melhorar a vida das pessoas e trazendo mais acessibilidade à todos.</br>
 
-<h5>Você pode entrar em contato comigo através do meu e-mail e LinkedIn!</h5>
+   <br>Minha formação inclui um diploma em Análise de Sistemas, com um foco específico em desenvolvimento de software back-end. Atualmente, estou aprimorando minhas habilidades através de cursos de especialização em back-end, com ênfase em JavaScript, Node.js, bancos de dados SQL (especialmente PostgreSQL), C#, e também estou mergulhando no mundo do front-end para o desenvolvimento de APIs.<br>
+  
+  <br> Em meus repositórios estão meus projetos, que representam minha jornada no mundo dev!  <br>
+<h4>Se você deseja entrar em contato comigo, fique à vontade para me enviar um e-mail ou me contactar através do LinkedIn!</h4>
 
 ###
 
