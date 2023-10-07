@@ -1,4 +1,10 @@
-<h4 align="left">Olá! Meu nome é Vitor Tavares, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas e aluno da Cubos Academy! <br>Atualmente meu foco é Back-end com C# e Node.js, possuo conhecimento básico de Front-end.<br>Em meus repositórios estão meus primeiros projetos e programas, para documentar minha trajetória no mundo Dev!</h4>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%World&animation=fadeIn!%20&fontSize=70)
+
+
+## Hello, Devs!! 
+<h5 align="left">Olá! Tenho 22 anos, sou desenvolvedor Back-end. Atualmente estudante de Análise e Desenvolvimento de Sistemas e aluno da Cubos Academy! <br>Meu foco reside em Back-end, JavaScript, Node.js, C# e para banco de dados o PostgreSQL.<br>Em meus repositórios estão meus primeiros projetos, para documentar minha trajetória no mundo Dev!</h5>
+
+<h5>Você pode entrar em contato comigo através do meu e-mail e LinkedIn!</h5>
 
 ###
 
@@ -42,7 +48,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xsaHV4cXo5NmJqcXhqMW41azY4ajZmaDU4aW4ybzB1bXRlMXd0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xsaHV4cXo5NmJqcXhqMW41azY4ajZmaDU4aW4ybzB1bXRlMXd0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif"  />
 
 ###
 
