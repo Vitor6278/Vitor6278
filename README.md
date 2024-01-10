@@ -14,7 +14,7 @@
   <br> Em meus repositórios estão meus projetos, que representam minha jornada no mundo dev!  <br>
 <h4>Se você deseja entrar em contato comigo, fique à vontade para me enviar um e-mail ou me contactar através do LinkedIn!</h4>
 
-**Currículo:** [Visualizar Currículo](https://drive.google.com/file/d/1TM8QQWm-JQEcIZjDrZjc7RqdGG_I8T26/view?usp=sharing)
+**Currículo:** [Visualizar Currículo](https://docs.google.com/document/d/1RhTN9JB8aVo-1vreHJyhy20uDjT9pi1bBMFsKTDwNZA/edit?usp=sharing)
 
 
 ###
