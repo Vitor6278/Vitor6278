@@ -1,20 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Vitor%20Tavares&fontColor=fff&fontSize=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=531b87&height=200&section=header&text=Vitor%20Tavares&fontColor=fff&fontSize=40&animation=twinkling" />
 
 ## Hello, Devs!! 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=2239F7&background=110CFF00&center=true&vCenter=true&width=800&lines=JavaScript;Node.js;Csharp;PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=2239F7&background=110CFF00&center=true&vCenter=true&width=800&lines=JavaScript;Node.js;Java;SpringBoot;Git;PostgreSQL)](https://git.io/typing-svg)
 
-<br>Olá! Meu nome é Vitor, tenho 22 anos e sou desenvolvedor Back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou aluno da Cubos Academy. 
+<br>Olá! Meu nome é Vitor, tenho 22 anos e sou desenvolvedor Back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou aluno da Oracle Next Education, tambem fui aluno da Cubos Academy em parceria com o Ifood. 
   
   <br>Apaixonado desde muito cedo pela tecnologia, acredito que a tecnologia pode melhorar a vida das pessoas e trazendo mais acessibilidade à todos.</br>
 
-   <br>Minha formação inclui um diploma em Análise de Sistemas, com um foco específico em desenvolvimento de software back-end. Atualmente, estou aprimorando minhas habilidades através de cursos de especialização em back-end, com ênfase em JavaScript, Node.js, bancos de dados SQL (especialmente PostgreSQL), C#, e também estou mergulhando no mundo do front-end para o desenvolvimento de APIs.<br>   
+   <br>Minha formação inclui um diploma em Análise de Sistemas, com um foco específico em desenvolvimento de software back-end. Atualmente, estou aprimorando minhas habilidades através de cursos de especialização em back-end, com ênfase em JavaScript, Node.js, bancos de dados SQL (especialmente PostgreSQL), Java, Spring Boot e também estou mergulhando no mundo de desenvolvimento de APIs.<br>   
    
 <br> Busco oportunidade para iniciar minha trajetória como desenvolvedor de software, aplicando os conhecimentos adquiridos durante minha graduação em Análise e Desenvolvimento de Sistemas. Comprometido, motivado e ávido por aprendizado, estou pronto para contribuir ativamente em projetos desafiadores, desenvolvendo minhas habilidades técnicas e colaborando para o crescimento da equipe e da empresa. <br>
   
   <br> Em meus repositórios estão meus projetos, que representam minha jornada no mundo dev!  <br>
 <h4>Se você deseja entrar em contato comigo, fique à vontade para me enviar um e-mail ou me contactar através do LinkedIn!</h4>
 
-**Currículo:** [Visualizar Currículo](https://docs.google.com/document/d/1RhTN9JB8aVo-1vreHJyhy20uDjT9pi1bBMFsKTDwNZA/edit?usp=sharing)
+**Currículo:** [Visualizar Currículo](https://docs.google.com/document/d/1rWYa6jC7iIASD7_ROrYIUmIy0ZA6k4iu9uWV_eWszjE/edit?usp=sharing)
 
 
 ###
@@ -33,7 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -56,7 +58,7 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=531b87&height=200&section=footer&animation=twinkling" />
 
 
 
