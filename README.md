@@ -1,20 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=531b87&height=200&section=header&text=Vitor%20Tavares&fontColor=fff&fontSize=40&animation=twinkling" />
 
 ## Hello, Devs!! 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=2239F7&background=110CFF00&center=true&vCenter=true&width=800&lines=JavaScript;Node.js;Java;SpringBoot;Git;PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=2239F7&background=110CFF00&center=true&vCenter=true&width=800&lines=JavaScript;Node.js;Python;Git;PostgreSQL)](https://git.io/typing-svg)
 
-<br>Olá! Meu nome é Vitor, tenho 22 anos e sou desenvolvedor Back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou aluno da Oracle Next Education, tambem fui aluno da Cubos Academy em parceria com o Ifood. 
+<br>Olá! Meu nome é Vitor, tenho 24 anos e sou desenvolvedor Back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tive o previlégio de ser estudante da Cubos Academy em parceria com o Ifood. 
   
   <br>Apaixonado desde muito cedo pela tecnologia, acredito que a tecnologia pode melhorar a vida das pessoas e trazendo mais acessibilidade à todos.</br>
 
-   <br>Minha formação inclui um diploma em Análise de Sistemas, com um foco específico em desenvolvimento de software back-end. Atualmente, estou aprimorando minhas habilidades através de cursos de especialização em back-end, com ênfase em JavaScript, Node.js, bancos de dados SQL (especialmente PostgreSQL), Java, Spring Boot e também estou mergulhando no mundo de desenvolvimento de APIs.<br>   
+   <br>Minha formação inclui um diploma em Análise de Sistemas, com um foco específico em desenvolvimento de software back-end. Atualmente, estou aprimorando minhas habilidades através de cursos de especialização em back-end, com ênfase em JavaScript, Node.js, bancos de dados SQL (especialmente PostgreSQL), Python e também estou mergulhando no mundo do frontend e do desenvolvimento de APIs.<br>   
    
-<br> Busco oportunidade para iniciar minha trajetória como desenvolvedor de software, aplicando os conhecimentos adquiridos durante minha graduação em Análise e Desenvolvimento de Sistemas. Comprometido, motivado e ávido por aprendizado, estou pronto para contribuir ativamente em projetos desafiadores, desenvolvendo minhas habilidades técnicas e colaborando para o crescimento da equipe e da empresa. <br>
+<br> Busco oportunidade para iniciar minha trajetória como desenvolvedor de software, aplicando os conhecimentos adquiridos durante minha graduação e estudos. Comprometido, motivado e ávido por aprendizado, estou pronto para contribuir ativamente em projetos, desenvolvendo minhas habilidades técnicas e colaborando para o crescimento da equipe e da empresa! <br>
   
   <br> Em meus repositórios estão meus projetos, que representam minha jornada no mundo dev!  <br>
 <h4>Se você deseja entrar em contato comigo, fique à vontade para me enviar um e-mail ou me contactar através do LinkedIn!</h4>
-
-**Currículo:** [Visualizar Currículo](https://docs.google.com/document/d/1rWYa6jC7iIASD7_ROrYIUmIy0ZA6k4iu9uWV_eWszjE/edit?usp=sharing)
 
 
 ###
