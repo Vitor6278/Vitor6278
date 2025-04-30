@@ -1,19 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=531b87&height=200&section=header&text=Vitor%20Tavares&fontColor=fff&fontSize=40&animation=twinkling" />
 
-## Hello, Devs!! 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=2239F7&background=110CFF00&center=true&vCenter=true&width=800&lines=JavaScript;Node.js;Python;Git;PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=2239F7&background=110CFF00&center=true&vCenter=true&width=800&lines=JavaScript;Node.js;Python;PostgreSQL)](https://git.io/typing-svg)
 
-<br>Olá! Meu nome é Vitor, tenho 24 anos e sou desenvolvedor Back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tive o previlégio de ser estudante da Cubos Academy em parceria com o Ifood. 
+<br>Olá! Meu nome é Vitor, tenho 24 anos e sou estudante em desenvolvimento Back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tive o previlégio de ser estudante da Cubos Academy em parceria com o Ifood. 
   
   <br>Apaixonado desde muito cedo pela tecnologia, acredito que a tecnologia pode melhorar a vida das pessoas e trazendo mais acessibilidade à todos.</br>
 
-   <br>Minha formação inclui um diploma em Análise de Sistemas, com um foco específico em desenvolvimento de software back-end. Atualmente, estou aprimorando minhas habilidades através de cursos de especialização em back-end, com ênfase em JavaScript, Node.js, bancos de dados SQL (especialmente PostgreSQL), Python e também estou mergulhando no mundo do frontend e do desenvolvimento de APIs.<br>   
+   <br>Graduando em Análise de Sistemas, com um foco um pouco mais voltado para back-end. Atualmente, estou estudando através de cursos em back-end, com ênfase em JavaScript, Node.js, bancos de dados SQL (PostgreSQL), Python e também estou mergulhando no mundo de desenvolvimento de APIs.<br>  
    
-<br> Busco oportunidade para iniciar minha trajetória como desenvolvedor de software, aplicando os conhecimentos adquiridos durante minha graduação e estudos. Comprometido, motivado e ávido por aprendizado, estou pronto para contribuir ativamente em projetos, desenvolvendo minhas habilidades técnicas e colaborando para o crescimento da equipe e da empresa! <br>
+<br> Busco oportunidade para iniciar minha trajetória como desenvolvedor, aplicando os conhecimentos adquiridos durante minha graduação. Comprometido, motivado e ávido por aprendizado, estou pronto para contribuir ativamente em projetos, desenvolvendo minhas habilidades técnicas e colaborando para o crescimento da equipe e da empresa! <br>
   
   <br> Em meus repositórios estão meus projetos, que representam minha jornada no mundo dev!  <br>
-<h4>Se você deseja entrar em contato comigo, fique à vontade para me enviar um e-mail ou me contactar através do LinkedIn!</h4>
-
 
 ###
 
@@ -31,10 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -45,14 +38,11 @@
 ###
 
 <div align="left">
-  <a href="vitorr6278@gmail.com" target="_blank">
+  <a href="guibofernandes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/vitor-tavares-83085a276" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="http://discordapp.com/users/____6278" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
